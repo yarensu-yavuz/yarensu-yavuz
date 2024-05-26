@@ -4,7 +4,7 @@ I'm a passionate software developer with a keen interest in front-end and back-e
 
 
 # 💫 About Me:
-🔭 I’m currently working on assignments and projects related to .NET, C#, and front-end development<br>🌱 I’m currently learning React<br>🤔 I’m looking for help with integrating third-party APIs in .NET projects<br>💬 Ask me about creating art with Procreate,Adobe Photoshop or other digital art tools<br>📫 How to reach me: <br>- Email: atasu07@hotmail.com<br>- LinkedIn:https://www.linkedin.com/in/yaren-su-yavuz/<br>⚡ Fun fact: I am interested in drawing as an amateur. Who knows, maybe one day I'll become a pro!<br><br>-->
+🔭 I’m currently working on assignments and projects related to .NET, C#, and front-end development<br>🌱 I’m currently learning React<br>🤔 I’m looking for help with integrating third-party APIs in .NET projects<br>💬 Ask me about creating art with Procreate,Adobe Photoshop or other digital art tools<br>📫 How to reach me: <br>- Email: atasu07@hotmail.com<br>- LinkedIn:https://www.linkedin.com/in/yaren-su-yavuz/<br>⚡ Fun fact: I am interested in drawing as an amateur. Who knows, maybe one day I'll become a pro!<br><br>
 
 
 # 💻 Tech Stack:
