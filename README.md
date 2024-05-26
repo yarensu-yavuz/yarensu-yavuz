@@ -11,5 +11,7 @@ I love continuously learning new things and improving myself, which makes me fee
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <div align="center">
-  <img src="https://gifdb.com/images/high/kawaii-cat-typing-on-laptop-el6knl9y0hh5jc56.gif" alt="Kawaii Cat Typing on Laptop" />
+  *See you soon!*
+  <br>
+  <img src="https://gifdb.com/images/high/nerd-ginger-cat-typing-8308pf65yrgevcln.gif" alt="Nerd Ginger Cat Typing" />
 </div>
