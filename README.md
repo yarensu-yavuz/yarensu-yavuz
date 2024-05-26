@@ -11,7 +11,7 @@ I love continuously learning new things and improving myself, which makes me fee
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <div align="center">
-  *See you soon!*
+  <h3>See you soon!</h3>
   <br>
-  <img src="https://gifdb.com/images/high/nerd-ginger-cat-typing-8308pf65yrgevcln.gif" alt="Nerd Ginger Cat Typing" />
+  <img src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-286.gif" alt="Typing Cat" style="width:100%;" />
 </div>
