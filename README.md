@@ -1,6 +1,5 @@
-Hi!I am Yaren Su👋
-
-I'm a passionate software developer with a keen interest in front-end and back-end technologies. Here's a bit about me and what I do:
+# Hi I'm Yaren Su👋
+I love continuously learning new things and improving myself, which makes me feel truly alive. This passion led me to choose the field of technology and become a software developer, and here I am.
 
 
 # 💫 About Me:
