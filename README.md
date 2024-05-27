@@ -10,9 +10,9 @@ I love continuously learning new things and improving myself, which makes me fee
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="center" style="padding-top: 20px;">
-  <h2>See you soon!</h2>
-  Thanks for visiting my profile. Looking forward to connecting with you.
-  <br>
+<div align="center">
   <img src="https://media.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" alt="Typing Cat" style="width:100%;" />
+   <h2>See you soon!</h2>
+     <br>
+  Thanks for visiting my profile. Looking forward to connecting with you.
 </div>
