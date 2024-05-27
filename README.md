@@ -11,7 +11,7 @@ I love continuously learning new things and improving myself, which makes me fee
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <div align="center">
-  <h2>See you soon!</h2>
+  <h2 style="color: #ea8cbb;">See you soon!</h2>
   Thanks for visiting my profile. Looking forward to connecting with you.
   <br>
   <img src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-286.gif" alt="Typing Cat" style="width:100%;" />
