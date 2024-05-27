@@ -10,7 +10,7 @@ I love continuously learning new things and improving myself, which makes me fee
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="center" style="padding: 20px;">
+<div align="center" style="padding-top: 20px;">
   <h2>See you soon!</h2>
   Thanks for visiting my profile. Looking forward to connecting with you.
   <br>
