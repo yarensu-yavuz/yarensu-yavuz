@@ -11,8 +11,9 @@ I love continuously learning new things and improving myself, which makes me fee
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <div align="center">
-  <img src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" alt="Typing Cat" style="width:100%;" />
-   <h2>See you soon!</h2>
-     <br>
+  <h2>See you soon!</h2>
   Thanks for visiting my profile. Looking forward to connecting with you.
+       <br>
+  <img src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" alt="Typing Cat" style="width:100%;" />
+   
 </div>
